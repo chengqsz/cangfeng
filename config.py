@@ -1,7 +1,7 @@
 # 目标网站配置
-TARGET_URL = "https://www.baidu.com/"  # 目标页面URL
+TARGET_URL = "https://www.cfmem.com/"  # 目标页面URL
 CONTENT_WRAPPER_ID = "content-wrapper"  # 目标标签ID
-SEARCH_PATTERN = "aaaassss -> "  # 待匹配的文本前缀
+SEARCH_PATTERN = "V2Ray/XRay -> "  # 待匹配的文本前缀
 
 # 请求头（模拟浏览器，避免反爬）
 HEADERS = {
